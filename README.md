@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/73460497/193599771-fa587b67-c59e-4072-9f98-7d2a8977610e.png)
 
-Random Dungeon-Generator
+-Random Dungeon-Generator
 
 Promotional Video: https://www.youtube.com/watch?v=RenaAL2D2C0
 
