@@ -4,7 +4,11 @@
 
 ![image](https://user-images.githubusercontent.com/73460497/193599771-fa587b67-c59e-4072-9f98-7d2a8977610e.png)
 
--Random Dungeon-Generator
+##Random Dungeon-Generator
+
+-增加項目：房間造型、鑰匙房、Boss關卡(房)、更改一些房間設定、怪物AI巡邏。
+
+(補充說明:需先找到鑰匙房，拉下拉桿，方可挑戰Boss)
 
 Promotional Video: https://www.youtube.com/watch?v=RenaAL2D2C0
 
