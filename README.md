@@ -16,4 +16,4 @@ DEMO(Random Dungeon Generator):https://youtu.be/Dphycj_1q_c?t=216
 
 Download: https://drive.google.com/file/d/1LYALncVyd-QNW8_yDNhW2CgK5aDJIMnO/view
 
-References:https://github.com/DMeville/Unity3d-Dungeon-Generator
+Reference:https://github.com/DMeville/Unity3d-Dungeon-Generator
