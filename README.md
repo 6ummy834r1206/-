@@ -10,6 +10,7 @@
 - Additions: Room design, Key room, Boss level (room), Room settings, Monster AI patrolling
 
 (補充說明:需先找到鑰匙房，拉下拉桿，方可挑戰Boss)
+
 (notes: The key room must be found first. Pulling down the lever in the key room will allow access to challenge the Boss.)
 
 Promotional Video: https://www.youtube.com/watch?v=RenaAL2D2C0
